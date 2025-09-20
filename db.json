@@ -1,0 +1,365 @@
+{
+  "jobs": [
+    {
+      "id": "5",
+      "jobTitle": "DevOps Engineer",
+      "company": "789 Corp",
+      "locations": [
+        "Seattle"
+      ],
+      "shortDescription": "Seeking a DevOps Engineer to improve CI/CD and cloud infrastructure.",
+      "description": "<p>789 Corp is looking for a DevOps Engineer to automate deployments, manage cloud infrastructure, and optimize performance. The ideal candidate should be experienced with AWS, Docker, and Kubernetes, and be comfortable working with CI/CD pipelines. Responsibilities include monitoring system performance, improving scalability, and ensuring security best practices are followed.</p>",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes"
+      ],
+      "salaryRangeMin": 90000,
+      "salaryRangeMax": 130000,
+      "experienceMin": 3,
+      "experienceMax": 7
+    },
+    {
+      "id": "08e338c3-19dd-4686-b8db-0a16a5d773c5",
+      "jobTitle": "SWE Intern",
+      "company": "Company",
+      "locations": [
+        "Coimbatore"
+      ],
+      "shortDescription": "Internship opportunity for software engineering students.",
+      "description": "We are offering an internship opportunity for students or recent graduates who want hands-on experience in software development. As an intern, you will work on real-world projects, contribute to our software stack, and collaborate with experienced developers. Ideal candidates should be eager to learn, have basic programming skills, and be comfortable working in a team.",
+      "skills": [
+        "Java",
+        "Spring Boot",
+        "SQL"
+      ],
+      "salaryRangeMin": 20000,
+      "salaryRangeMax": 30000,
+      "experienceMin": 0,
+      "experienceMax": 1
+    },
+    {
+      "id": "ce677a7c-f278-4f3a-bd06-46b79f2ddac9",
+      "jobTitle": "SWE Intern",
+      "company": "Company",
+      "locations": [
+        "Coimbatore"
+      ],
+      "shortDescription": "Exciting internship for students interested in software engineering.",
+      "description": "<p>This software engineering internship provides an opportunity to gain real-world experience by working on live projects under the guidance of experienced developers. Interns will participate in coding tasks, debugging, and feature implementation, and will receive mentorship throughout the internship period.</p>",
+      "skills": [
+        "Python",
+        "Django",
+        "REST API"
+      ],
+      "salaryRangeMin": 20000,
+      "salaryRangeMax": 30000,
+      "experienceMin": 0,
+      "experienceMax": 1
+    }
+  ],
+  "candidates": [
+    {
+      "id": 1,
+      "name": "Aarav Mehta",
+      "title": "Frontend Developer",
+      "location": "Bangalore, India",
+      "email": "aarav.mehta@example.com",
+      "skills": [
+        "React",
+        "JavaScript",
+        "HTML",
+        "CSS",
+        "TypeScript"
+      ],
+      "experience": 3.5,
+      "isAvailable": true
+    },
+    {
+      "id": 2,
+      "name": "Sneha Sharma",
+      "title": "UX/UI Designer",
+      "location": "Mumbai, India",
+      "email": "sneha.sharma@example.com",
+      "skills": [
+        "Figma",
+        "Adobe XD",
+        "Sketch",
+        "HTML",
+        "CSS"
+      ],
+      "experience": 4,
+      "isAvailable": false
+    },
+    {
+      "id": 3,
+      "name": "Ravi Kumar",
+      "title": "Backend Developer",
+      "location": "Hyderabad, India",
+      "email": "ravi.kumar@example.com",
+      "skills": [
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "PostgreSQL"
+      ],
+      "experience": 5.2,
+      "isAvailable": true
+    },
+    {
+      "id": 4,
+      "name": "Priya Desai",
+      "title": "Full Stack Developer",
+      "location": "Chennai, India",
+      "email": "priya.desai@example.com",
+      "skills": [
+        "React",
+        "Node.js",
+        "MongoDB",
+        "GraphQL"
+      ],
+      "experience": 6.1,
+      "isAvailable": true
+    },
+    {
+      "id": 5,
+      "name": "Vikram Raj",
+      "title": "DevOps Engineer",
+      "location": "Delhi, India",
+      "email": "vikram.raj@example.com",
+      "skills": [
+        "AWS",
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "Linux"
+      ],
+      "experience": 4.3,
+      "isAvailable": false
+    },
+    {
+      "id": 6,
+      "name": "Neha Kapoor",
+      "title": "QA Engineer",
+      "location": "Pune, India",
+      "email": "neha.kapoor@example.com",
+      "skills": [
+        "Selenium",
+        "Cypress",
+        "Postman",
+        "JIRA"
+      ],
+      "experience": 3,
+      "isAvailable": true
+    },
+    {
+      "id": 7,
+      "name": "Karan Malhotra",
+      "title": "Product Manager",
+      "location": "Gurgaon, India",
+      "email": "karan.malhotra@example.com",
+      "skills": [
+        "Agile",
+        "Scrum",
+        "Product Strategy",
+        "JIRA"
+      ],
+      "experience": 7,
+      "isAvailable": false
+    },
+    {
+      "id": 8,
+      "name": "Divya Iyer",
+      "title": "Data Analyst",
+      "location": "Chennai, India",
+      "email": "divya.iyer@example.com",
+      "skills": [
+        "SQL",
+        "Python",
+        "Tableau",
+        "Excel"
+      ],
+      "experience": 2.5,
+      "isAvailable": true
+    },
+    {
+      "id": 9,
+      "name": "Amit Sinha",
+      "title": "Machine Learning Engineer",
+      "location": "Bangalore, India",
+      "email": "amit.sinha@example.com",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Pandas"
+      ],
+      "experience": 5,
+      "isAvailable": true
+    },
+    {
+      "id": 10,
+      "name": "Ritika Verma",
+      "title": "Mobile App Developer",
+      "location": "Noida, India",
+      "email": "ritika.verma@example.com",
+      "skills": [
+        "Flutter",
+        "React Native",
+        "Dart",
+        "Java"
+      ],
+      "experience": 3.2,
+      "isAvailable": true
+    },
+    {
+      "id": 11,
+      "name": "Saurav Das",
+      "title": "Cloud Engineer",
+      "location": "Kolkata, India",
+      "email": "saurav.das@example.com",
+      "skills": [
+        "Azure",
+        "AWS",
+        "Terraform",
+        "CI/CD"
+      ],
+      "experience": 4.8,
+      "isAvailable": false
+    },
+    {
+      "id": 12,
+      "name": "Meenal Joshi",
+      "title": "Cybersecurity Analyst",
+      "location": "Ahmedabad, India",
+      "email": "meenal.joshi@example.com",
+      "skills": [
+        "Security Audits",
+        "Penetration Testing",
+        "SIEM",
+        "Firewalls"
+      ],
+      "experience": 3.9,
+      "isAvailable": true
+    },
+    {
+      "id": 13,
+      "name": "Rahul Reddy",
+      "title": "System Administrator",
+      "location": "Hyderabad, India",
+      "email": "rahul.reddy@example.com",
+      "skills": [
+        "Linux",
+        "Networking",
+        "Shell Scripting",
+        "AWS"
+      ],
+      "experience": 6.4,
+      "isAvailable": false
+    },
+    {
+      "id": 14,
+      "name": "Tanvi Bhatia",
+      "title": "Technical Writer",
+      "location": "Indore, India",
+      "email": "tanvi.bhatia@example.com",
+      "skills": [
+        "Documentation",
+        "Markdown",
+        "Git",
+        "Agile"
+      ],
+      "experience": 2.8,
+      "isAvailable": true
+    },
+    {
+      "id": 15,
+      "name": "Nikhil Jain",
+      "title": "Frontend Developer",
+      "location": "Surat, India",
+      "email": "nikhil.jain@example.com",
+      "skills": [
+        "Vue.js",
+        "JavaScript",
+        "HTML",
+        "CSS"
+      ],
+      "experience": 3.7,
+      "isAvailable": true
+    },
+    {
+      "id": 16,
+      "name": "Ankita Roy",
+      "title": "Graphic Designer",
+      "location": "Kolkata, India",
+      "email": "ankita.roy@example.com",
+      "skills": [
+        "Photoshop",
+        "Illustrator",
+        "InDesign",
+        "Canva"
+      ],
+      "experience": 2,
+      "isAvailable": true
+    },
+    {
+      "id": 17,
+      "name": "Harsh Vardhan",
+      "title": "Tech Lead",
+      "location": "Bangalore, India",
+      "email": "harsh.vardhan@example.com",
+      "skills": [
+        "Java",
+        "Spring",
+        "Microservices",
+        "System Design"
+      ],
+      "experience": 9.1,
+      "isAvailable": false
+    },
+    {
+      "id": 18,
+      "name": "Shruti Naik",
+      "title": "Business Analyst",
+      "location": "Mumbai, India",
+      "email": "shruti.naik@example.com",
+      "skills": [
+        "Requirement Analysis",
+        "UML",
+        "Excel",
+        "Power BI"
+      ],
+      "experience": 4.5,
+      "isAvailable": true
+    },
+    {
+      "id": 19,
+      "name": "Manish Rawat",
+      "title": "SEO Specialist",
+      "location": "Dehradun, India",
+      "email": "manish.rawat@example.com",
+      "skills": [
+        "Google Analytics",
+        "SEO Audits",
+        "Content Strategy"
+      ],
+      "experience": 3.3,
+      "isAvailable": false
+    },
+    {
+      "id": 20,
+      "name": "Pooja Menon",
+      "title": "Recruiter",
+      "location": "Coimbatore, India",
+      "email": "pooja.menon@example.com",
+      "skills": [
+        "ATS",
+        "Sourcing",
+        "Interviewing",
+        "HRMS"
+      ],
+      "experience": 4,
+      "isAvailable": true
+    }
+  ]
+}
