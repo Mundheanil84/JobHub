@@ -29,8 +29,8 @@ A modern job portal application built to streamline job posting and management. 
 
 ## Login Info
 
-- Login as user **username:** magesh, **password:** password
-- Login as admin **username:** sam, **password:** password
+- Login as user **username:** Anil, **password:** password
+- Login as admin **username:** Mundhe, **password:** password
 
 ## Screenshots
 
