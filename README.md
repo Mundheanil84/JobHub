@@ -1,27 +1,31 @@
 # Job Portal
 
-**Tech Stack:** React, Typescript, React Router, React Hook Form, Redux Toolkit, Shadcn UI, Tailwind css, JSON server - to mock API. TinyMCE - WYSIWYG Text Editor
+A modern job portal application built to streamline job posting and management. It provides features for both users and admins, making it easier to create, manage, and explore job opportunities with an intuitive interface.
 
-## Features
+---
 
-- [x] Add new job
-- [x] Edit an existing job
-- [x] Delete a job
-- [x] Save a job
-- [x] Light/Dark/System Theme Toggle
-- [x] Profile page
-- [x] Different user roles (user, admin)
+## 🚀 Tech Stack
 
-## How to setup locally
+- **Frontend Framework:** React, TypeScript  
+- **Routing & Forms:** React Router, React Hook Form  
+- **State Management:** Redux Toolkit  
+- **UI Components & Styling:** Shadcn UI, Tailwind CSS  
+- **Backend (Mock API):** JSON Server  
+- **Text Editor:** TinyMCE (WYSIWYG Editor)
 
-- Clone the repo
-  `git clone https://github.com/Magesh-sam/job-portal.git`
-- install dependencies
-  `pnpm install`
-- get tinyMCE key for WYSIWYG editor and add it in your .env
-- run front-end : `pnpm run dev`
-- run json-server(API) : `pnpm run serve`
-- Feel free to customize **db.json** (data for API)
+---
+
+## ✨ Features
+
+- ✅ Add new job postings  
+- ✅ Edit existing job details  
+- ✅ Delete jobs from the list  
+- ✅ Save jobs for later  
+- ✅ Light/Dark/System theme toggle  
+- ✅ Profile management page  
+- ✅ Role-based access (User & Admin)  
+
+
 
 ## Login Info
 
